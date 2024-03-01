@@ -9,6 +9,8 @@ Instalação das libs:
 npm install next@latest react@latest react-dom@latest
 
 Crie um dir com nome app
+Add o arquivo page.tsx
+
 
 Rodar o projeto:
 npm run dev
